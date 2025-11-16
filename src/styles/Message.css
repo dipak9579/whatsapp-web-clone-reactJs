@@ -1,0 +1,9 @@
+.message{ display:flex; width:100%; }
+.message .bubble{ max-width:70%; padding:10px 12px; border-radius:12px; display:inline-block; position:relative; }
+.message.me{ justify-content:flex-end; }
+.message.me .bubble{ background:var(--accent); color:white; border-bottom-right:2px solid #11a94a; border-bottom-left-radius:12px; }
+.message.other{ justify-content:flex-start; }
+.message.other .bubble{ background:#f1f0f0; color:#111; border-bottom-left:2px solid #e0e0e0; }
+
+.message .text{ margin:0 0 6px 0; }
+.message .time{ font-size:11px; color:rgba(0,0,0,0.45); text-align:right; }

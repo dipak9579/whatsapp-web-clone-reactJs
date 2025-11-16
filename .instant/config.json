@@ -1,0 +1,5 @@
+{
+  "appId": "9f86080a-ba94-4739-a00d-453aa2a3bd1c",
+  "schemaPath": "src/instant.schema.ts",
+  "permsPath": "src/instant.perms.ts"
+}

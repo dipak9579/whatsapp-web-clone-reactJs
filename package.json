@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@instantdb/react": "^0.22.51",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "idb": "^8.0.3",
